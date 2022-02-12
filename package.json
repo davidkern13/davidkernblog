@@ -1,7 +1,7 @@
 {
-  "name": "nextjs-blog-starter",
+  "name": "David Kern Blog",
   "version": "0.3.0",
-  "description": "A Next.js template for a blog website.",
+  "description": "David Kern Blog.",
   "private": true,
   "engines": {
     "node": "14"

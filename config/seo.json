@@ -1,16 +1,16 @@
 {
   "siteMetadata": {
-    "title": "Next.js Starter Blog",
+    "title": "David Kern Blog",
     "author": {
-      "name": "Jose Felix",
-      "summary": "who works building clean user interfaces with React.",
-      "link": "https://jfelix.info"
+      "name": "David Kern",
+      "summary": "Hello, I'm David. I'm front-end developer at KESHET🌈.",
+      "link": "https://www.linkedin.com/in/david-minkevych/"
     },
     "description": "A blog created with Next.js and Tailwind.css",
     "siteUrl": "https://nextjs-starter-blog-new-demo.vercel.app/",
     "language": "en-US",
     "social": {
-      "twitter": "Jose_R_Felix"
+      "twitter": "David Kern"
     }
   }
 }

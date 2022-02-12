@@ -3,7 +3,7 @@ import clsx from "clsx";
 import Image from "next/image";
 
 import { getSiteMetaData } from "@utils/helpers";
-import profilePicture from "@/content/assets/profile.png";
+import profilePicture from "@/content/assets/profile.jpg";
 
 export function Bio({ className }) {
   const { author, social } = getSiteMetaData();
@@ -24,7 +24,7 @@ export function Bio({ className }) {
         Written by <b className="font-semibold">{author.name}</b>{" "}
         {author.summary}{" "}
         <a href={`https://twitter.com/${social.twitter}`}>
-          Follow him on twitter
+          Follow me on twitter
         </a>
       </p>
     </div>
