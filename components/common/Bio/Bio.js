@@ -19,6 +19,13 @@ export function Bio({ className }) {
           placeholder="blur"
         />
       </div>
+      <br />
+      <p className="text-base leading-7">
+        {author.summary}{" "}
+        <a href={`https://twitter.com/${social.twitter}`}>
+          Follow me on twitter
+        </a>
+      </p>
     </div>
   );
 }
