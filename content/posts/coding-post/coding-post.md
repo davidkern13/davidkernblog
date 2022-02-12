@@ -1,7 +1,7 @@
 ---
-title: test code
-description: test code.
-date: 
+title: Coding post
+description: Coding post.
+date: 2022-02-12T11:00:00.000Z
 ---
 
 ```jsx
