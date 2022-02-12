@@ -3,7 +3,7 @@
     "title": "David Kern Blog",
     "author": {
       "name": "David Kern",
-      "summary": "Hello, I'm David. I'm front-end developer at KESHET🌈.",
+      "summary": "Hello, I'm David. I'm front-end developer.",
       "link": "https://www.linkedin.com/in/david-minkevych/"
     },
     "description": "A blog created with Next.js and Tailwind.css",
