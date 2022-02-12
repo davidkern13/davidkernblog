@@ -1,5 +1,5 @@
 {
-  "name": "David Kern Blog",
+  "name": "davidkernblog",
   "version": "0.3.0",
   "description": "David Kern Blog.",
   "private": true,
@@ -34,12 +34,12 @@
     "postcss": "^8.4.4",
     "tailwindcss": "^2.2.19"
   },
-  "license": "MIT",
+  "license": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jfelix61/nextjs-starter-blog.git"
+    "url": "git+https://github.com/davidkern13/davidkernblog.git"
   },
-  "homepage": "https://github.com/Jfelix61/nextjs-starter-blog#readme",
+  "homepage": "https://github.com/davidkern13/davidkernblog.git#readme",
   "keywords": [
     "next.js",
     "blog",
