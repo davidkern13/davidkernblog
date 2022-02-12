@@ -19,14 +19,6 @@ export function Bio({ className }) {
           placeholder="blur"
         />
       </div>
-
-      <p className="text-base leading-7">
-        Written by <b className="font-semibold">{author.name}</b>{" "}
-        {author.summary}{" "}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          Follow me on twitter
-        </a>
-      </p>
     </div>
   );
 }
